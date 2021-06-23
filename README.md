@@ -2,7 +2,7 @@
 
 ![Erda logo](./docs/assets/logo-small.jpg)
 
-## 11Introduction
+## Introduction
 
 Erda is an open-source platform created by [Terminus](https://www.terminus.io/) to ensure the development of microservice applications. It provides DevOps, microservice governance, and multi-cloud management capabilities. The multi-cloud architecture based on Kubernetes and application-centric DevOps and microservice governance can make the development, operation, monitoring, and problem diagnosis of complex business applications simpler and more efficient.
 
